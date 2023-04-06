@@ -1,0 +1,19 @@
+{
+  "name": "gpwhatsapp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "chatgpt": "^5.2.2",
+    "openai": "^3.2.1",
+    "qrcode-terminal": "^0.12.0",
+    "unfetch": "^5.0.0",
+    "whatsapp-web.js": "^1.19.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3"
+  }
+}
